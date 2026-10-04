@@ -110,11 +110,11 @@ O projeto foi construído atendendo rigorosamente aos padrões de qualidade e re
 
 Para conferir detalhes aprofundados sobre regras de negócio, modelagem, endpoints e atas, consulte os documentos complementares:
 
-- 📄 [Visão do Produto (`visao-do-produto.md`)](visao-do-produto.md) — Personas, fronteira de escopo e metas de produto.
-- 📐 [Raciocínio Técnico & Arquitetura (`abp-2026-2.md`)](abp-2026-2.md) — Algoritmo de reconciliação e integrações.
-- 📋 [Product Backlog Geral (`product-backlog.md`)](product-backlog.md) — Épicos, User Stories e critérios de aceitação.
-- ⏱️ [Planejamento da Sprint 1 (`sprints/sprint-1.md`)](sprints/sprint-1.md) — Detalhamento de tarefas, pontuações e DoD da Sprint 1.
-- 🔌 [Especificação de APIs (`especificacao-api.md`)](especificacao-api.md) — Contratos e endpoints das APIs externas.
+- 📄 [Visão do Produto (`docs/visao-do-produto.md`)](docs/visao-do-produto.md) — Personas, fronteira de escopo e metas de produto.
+- 📐 [Raciocínio Técnico & Arquitetura (`docs/abp-2026-2.md`)](docs/abp-2026-2.md) — Algoritmo de reconciliação e integrações.
+- 📋 [Product Backlog Geral (`docs/product-backlog.md`)](docs/product-backlog.md) — Épicos, User Stories e critérios de aceitação.
+- ⏱️ [Planejamento da Sprint 1 (`docs/sprints/sprint-1.md`)](docs/sprints/sprint-1.md) — Detalhamento de tarefas, pontuações e DoD da Sprint 1.
+- 🔌 [Especificação de APIs (`docs/especificacao-api.md`)](docs/especificacao-api.md) — Contratos e endpoints das APIs externas.
 
 ---
 
