@@ -1,3 +1,5 @@
+> **Repositório descontinuado em 16/10/2026.** O projeto continua em [DEVassos/greener-app](https://github.com/DEVassos/greener-app), com o nome **EcoPulse**. O histórico daqui foi importado para lá com autoria preservada ([PR #57](https://github.com/DEVassos/greener-app/pull/57)). Este repositório fica arquivado, só para leitura, para que os links já usados como evidência continuem válidos.
+
 # 🌱 GreenER — Plataforma de Monitoramento e Impacto Ambiental de Software
 
 <div align="center">
